@@ -1,3 +1,5 @@
+package java101.src;
+
 import java.util.Scanner;
 
 public class Odev_UcakBiletiFiyatiHesaplama {
