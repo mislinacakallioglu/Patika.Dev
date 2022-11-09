@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Pe6l6aL52Q6NbwVaIpW+kQBcCTPpCe3bDcScQIorPUxNJetIAD6yutlwmxZofK5AkdnftxvQus+ltY35E6lgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Documents\\Github\\Patika.dev\\Patika.dev\\Patika C#\\tipDonusumleri\\tipDonusumleri\\tipDonusumleri.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
