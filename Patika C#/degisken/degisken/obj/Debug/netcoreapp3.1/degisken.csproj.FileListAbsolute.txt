@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\degisken\degisken\bin\Debug\netcoreapp3.1\degisken.exe
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\degisken\degisken\bin\Debug\netcoreapp3.1\degisken.deps.json
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\degisken\degisken\bin\Debug\netcoreapp3.1\degisken.runtimeconfig.json
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\degisken\degisken\bin\Debug\netcoreapp3.1\degisken.runtimeconfig.dev.json
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\degisken\degisken\bin\Debug\netcoreapp3.1\degisken.dll
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\degisken\degisken\bin\Debug\netcoreapp3.1\degisken.pdb
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\degisken\degisken\obj\Debug\netcoreapp3.1\degisken.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\degisken\degisken\obj\Debug\netcoreapp3.1\degisken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\degisken\degisken\obj\Debug\netcoreapp3.1\degisken.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\degisken\degisken\obj\Debug\netcoreapp3.1\degisken.AssemblyInfo.cs
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\degisken\degisken\obj\Debug\netcoreapp3.1\degisken.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\degisken\degisken\obj\Debug\netcoreapp3.1\degisken.dll
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\degisken\degisken\obj\Debug\netcoreapp3.1\degisken.pdb
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\degisken\degisken\obj\Debug\netcoreapp3.1\degisken.genruntimeconfig.cache

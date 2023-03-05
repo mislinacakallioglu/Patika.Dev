@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\hata_yonetimi\bin\Debug\net7.0\hata_yonetimi.exe
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\hata_yonetimi\bin\Debug\net7.0\hata_yonetimi.deps.json
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\hata_yonetimi\bin\Debug\net7.0\hata_yonetimi.runtimeconfig.json
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\hata_yonetimi\bin\Debug\net7.0\hata_yonetimi.dll
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\hata_yonetimi\bin\Debug\net7.0\hata_yonetimi.pdb
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\hata_yonetimi\obj\Debug\net7.0\hata_yonetimi.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\hata_yonetimi\obj\Debug\net7.0\hata_yonetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\hata_yonetimi\obj\Debug\net7.0\hata_yonetimi.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\hata_yonetimi\obj\Debug\net7.0\hata_yonetimi.AssemblyInfo.cs
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\hata_yonetimi\obj\Debug\net7.0\hata_yonetimi.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\hata_yonetimi\obj\Debug\net7.0\hata_yonetimi.dll
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\hata_yonetimi\obj\Debug\net7.0\refint\hata_yonetimi.dll
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\hata_yonetimi\obj\Debug\net7.0\hata_yonetimi.pdb
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\hata_yonetimi\obj\Debug\net7.0\hata_yonetimi.genruntimeconfig.cache
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\hata_yonetimi\obj\Debug\net7.0\ref\hata_yonetimi.dll
