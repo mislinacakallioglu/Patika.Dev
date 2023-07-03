@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\switch_case\bin\Debug\net7.0\switch_case.exe
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\switch_case\bin\Debug\net7.0\switch_case.deps.json
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\switch_case\bin\Debug\net7.0\switch_case.runtimeconfig.json
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\switch_case\bin\Debug\net7.0\switch_case.dll
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\switch_case\bin\Debug\net7.0\switch_case.pdb
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\switch_case\obj\Debug\net7.0\switch_case.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\switch_case\obj\Debug\net7.0\switch_case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\switch_case\obj\Debug\net7.0\switch_case.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\switch_case\obj\Debug\net7.0\switch_case.AssemblyInfo.cs
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\switch_case\obj\Debug\net7.0\switch_case.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\switch_case\obj\Debug\net7.0\switch_case.dll
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\switch_case\obj\Debug\net7.0\refint\switch_case.dll
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\switch_case\obj\Debug\net7.0\switch_case.pdb
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\switch_case\obj\Debug\net7.0\switch_case.genruntimeconfig.cache
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\switch_case\obj\Debug\net7.0\ref\switch_case.dll
