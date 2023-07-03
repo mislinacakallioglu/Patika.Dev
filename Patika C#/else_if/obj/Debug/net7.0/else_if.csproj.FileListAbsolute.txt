@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\else_if\bin\Debug\net7.0\else_if.exe
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\else_if\bin\Debug\net7.0\else_if.deps.json
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\else_if\bin\Debug\net7.0\else_if.runtimeconfig.json
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\else_if\bin\Debug\net7.0\else_if.dll
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\else_if\bin\Debug\net7.0\else_if.pdb
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\else_if\obj\Debug\net7.0\else_if.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\else_if\obj\Debug\net7.0\else_if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\else_if\obj\Debug\net7.0\else_if.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\else_if\obj\Debug\net7.0\else_if.AssemblyInfo.cs
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\else_if\obj\Debug\net7.0\else_if.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\else_if\obj\Debug\net7.0\else_if.dll
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\else_if\obj\Debug\net7.0\refint\else_if.dll
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\else_if\obj\Debug\net7.0\else_if.pdb
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\else_if\obj\Debug\net7.0\else_if.genruntimeconfig.cache
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\else_if\obj\Debug\net7.0\ref\else_if.dll
