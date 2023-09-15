@@ -37,10 +37,12 @@ namespace dizi_array_sınıfı_metodlar
                     Console.WriteLine(sayi);
 
                 //IndexOf
+                //Verilen dizinin verilen elemanının indexini getirir. Eğer dizi içerisinde elemanı bulamazsa -1 döner.
                 Console.WriteLine("- Array IndexOf - ");
                 Console.WriteLine( Array.IndexOf(sayiDizisi,23));
             
-            // Resize
+            // Resize 
+            //Dizileri yeniden boyutlandırmak için kullanılır.
             Console.WriteLine("- Resize - ");
             Array.Resize<int>(ref sayiDizisi,9);
             sayiDizisi[8]=99;
