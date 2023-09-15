@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\dizi_array_sinifi_metodlari\bin\Debug\net7.0\diz_array_sinifi_metodlari.exe
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\dizi_array_sinifi_metodlari\bin\Debug\net7.0\diz_array_sinifi_metodlari.deps.json
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\dizi_array_sinifi_metodlari\bin\Debug\net7.0\diz_array_sinifi_metodlari.runtimeconfig.json
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\dizi_array_sinifi_metodlari\bin\Debug\net7.0\diz_array_sinifi_metodlari.dll
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\dizi_array_sinifi_metodlari\bin\Debug\net7.0\diz_array_sinifi_metodlari.pdb
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\dizi_array_sinifi_metodlari\obj\Debug\net7.0\diz_array_sinifi_metodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\dizi_array_sinifi_metodlari\obj\Debug\net7.0\diz_array_sinifi_metodlari.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\dizi_array_sinifi_metodlari\obj\Debug\net7.0\diz_array_sinifi_metodlari.AssemblyInfo.cs
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\dizi_array_sinifi_metodlari\obj\Debug\net7.0\diz_array_sinifi_metodlari.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\dizi_array_sinifi_metodlari\obj\Debug\net7.0\diz_array_sinifi_metodlari.dll
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\dizi_array_sinifi_metodlari\obj\Debug\net7.0\refint\diz_array_sinifi_metodlari.dll
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\dizi_array_sinifi_metodlari\obj\Debug\net7.0\diz_array_sinifi_metodlari.pdb
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\dizi_array_sinifi_metodlari\obj\Debug\net7.0\diz_array_sinifi_metodlari.genruntimeconfig.cache
+C:\Users\User\Documents\Github\Patika.dev\Patika.dev\Patika C#\dizi_array_sinifi_metodlari\obj\Debug\net7.0\ref\diz_array_sinifi_metodlari.dll
