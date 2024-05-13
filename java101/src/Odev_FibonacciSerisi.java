@@ -5,16 +5,18 @@ public class Odev_FibonacciSerisi {
 
         Scanner inp = new Scanner(System.in);
 
-        int a,b,c;
+        int a=0,b=1,c;
         System.out.print("Eleman sayisi girin: ");
-        a=inp.nextInt();
+        int elemanSayisi=inp.nextInt();
 
-        for (int i = 0; i <a ; i++)
+        System.out.println("Fibonacci serisi: ");
+
+        for (int i = 0; i <elemanSayisi ; i++)
         {
-            a=0;
-            b=0;
+            System.out.print(a + " ");
             c=a+b;
+            a=b;
+            b=c;
         }
-
     }
 }
