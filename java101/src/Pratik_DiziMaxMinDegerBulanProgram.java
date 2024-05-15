@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Pratik_DiziMaMinDegerBulanProgram {
+public class Pratik_DiziMaxMinDegerBulanProgram {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
