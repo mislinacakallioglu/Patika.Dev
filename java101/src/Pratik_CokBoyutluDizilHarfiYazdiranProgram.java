@@ -1,6 +1,4 @@
-import java.util.Scanner;
-
-public class Pratik_CokBoyutluDizilAHarfiYazdiranProgram {
+public class Pratik_CokBoyutluDizilHarfiYazdiranProgram {
     public static void main(String[] args) {
            /*
         // A
